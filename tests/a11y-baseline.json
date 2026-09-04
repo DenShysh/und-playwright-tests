@@ -1,0 +1,77 @@
+{
+  "chromium/homepage": {
+    "color-contrast": 20
+  },
+  "chromium/category": {
+    "color-contrast": 20
+  },
+  "chromium/search": {
+    "color-contrast": 24
+  },
+  "mobile-chrome/homepage": {
+    "color-contrast": 20
+  },
+  "mobile-chrome/category": {
+    "color-contrast": 20
+  },
+  "mobile-chrome/search": {
+    "color-contrast": 24
+  },
+  "chromium/editorial": {
+    "color-contrast": 16
+  },
+  "chromium/tournaments": {
+    "color-contrast": 24,
+    "select-name": 1
+  },
+  "chromium/ratings-ssbu": {
+    "color-contrast": 57
+  },
+  "chromium/games": {
+    "aria-prohibited-attr": 243,
+    "color-contrast": 8
+  },
+  "chromium/category-tv": {
+    "aria-allowed-attr": 1,
+    "aria-prohibited-attr": 1,
+    "button-name": 1,
+    "color-contrast": 44
+  },
+  "chromium/login": {
+    "color-contrast": 5
+  },
+  "mobile-chrome/editorial": {
+    "color-contrast": 16
+  },
+  "mobile-chrome/tournaments": {
+    "color-contrast": 24,
+    "select-name": 1
+  },
+  "mobile-chrome/ratings-ssbu": {
+    "color-contrast": 57,
+    "scrollable-region-focusable": 1
+  },
+  "mobile-chrome/games": {
+    "aria-prohibited-attr": 243,
+    "color-contrast": 8
+  },
+  "mobile-chrome/category-tv": {
+    "aria-allowed-attr": 1,
+    "aria-prohibited-attr": 1,
+    "color-contrast": 44
+  },
+  "mobile-chrome/login": {
+    "color-contrast": 5
+  },
+  "chromium/cabinet-games": {
+    "color-contrast": 6,
+    "link-name": 5,
+    "select-name": 5
+  },
+  "mobile-chrome/cabinet-games": {
+    "button-name": 1,
+    "color-contrast": 6,
+    "link-name": 5,
+    "select-name": 5
+  }
+}

@@ -1,0 +1,7 @@
+node_modules/
+test-results/
+playwright-report/
+.env
+.playwright-mcp/
+skipped.xls
+.claude/
